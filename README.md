@@ -39,4 +39,7 @@ Specifically, it aims to
 
 Instead of asking respondents what they prefer in a product directly, customers were presented with potential product profiles that have specific combinations of attributes. They were then asked to rate their preferences based on 1-10 scale rating.
 
+## Analysis and Intepretation of data
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/images/processMap.png)
+
 This data is then analysed to decipher the importance of features in customer purchase decisions.

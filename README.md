@@ -35,12 +35,8 @@ Specifically, it aims to
         
 
 ## Understanding of the data
-![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/images/processMap.png)
 
-Instead of asking respondents what they prefer in a product directly, conjoint analysis presents to them potential product profiles that have specific combinations of attributes. These profiles can be evaluated in several ways, including:
+Instead of asking respondents what they prefer in a product directly, customers were presented with potential product profiles that have specific combinations of attributes. They were then asked to rate their preferences based on 1-10 scale rating.
 
-Rating (e.g. rating with a scale from 1-10)
-Ranking (e.g. rank best as 1st, 2nd, 3rd, etc.)
-Choice (e.g. four options, which do you choose?)
-
-Since this is an experimental design, we came up with theoritical products utilizing the combination of features and asked the customers to rank asking participants to rank products starting with one they would prefer the most as rank 1 to the last.
+This data is then analysed to decipher the importance of features in customer purchase decisions.

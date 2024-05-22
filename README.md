@@ -1,4 +1,7 @@
-# ![Conjoint Study].(phones_conjoint.ipynb)
+# [Conjoint Study
+
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
+
 Deciding between two or more options is often difficult because we like some features in one option and some features in the other. We are left with a feeling that perhaps the features I like should have been combined to form an extra option but that extra option could also have something we don't like so much like price. In the mix of this, we find ourselves making trade-offs by picking options that we feel would deliver optimal value.
 
 So begs the question, what does data-driven organizations do to decipher the ideal mix of features that most customer would prefer or would choose? Certainly, such organizations can’t afford to make educated guesses - Well, among the tools that are preferred is the Conjoint study.

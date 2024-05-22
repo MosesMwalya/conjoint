@@ -1,4 +1,4 @@
-# [Conjoint Study
+# Conjoint Study
 
 ![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
 
@@ -28,13 +28,15 @@ This project therefore seeks to leverage conjoint analysis to bridge the divide 
 The main objective of the Conjoint study is to generate insights that enhance decision-making processes for our client, 
             
 Specifically, it aims to 
-1. Determine how pizza attributes influence consumer decision-making.
+1. Determine how mobile phone attributes influence consumer decision-making.
 2. Quantify Consumer Preferences
 3. Optimize Product configuration:
 4. Simulate consumer choices and then forecast market share for different pizza scenarios.
         
 
 ## Understanding of the data
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
+
 Instead of asking respondents what they prefer in a product directly, conjoint analysis presents to them potential product profiles that have specific combinations of attributes. These profiles can be evaluated in several ways, including:
 
 Rating (e.g. rating with a scale from 1-10)

@@ -42,7 +42,7 @@ Instead of asking respondents what they prefer in a product directly, customers 
 ## Analysis and Intepretation of data
 ![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/images/Features.png)
 
-![Alt text](https://https://github.com/MosesMwalya/conjoint/blob/main/images/featureimportance.png)
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/images/featureimportance.png)
 
 
 This data is then analysed to decipher the importance of features in customer purchase decisions.

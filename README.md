@@ -19,9 +19,9 @@ Conjoints are invaluable resources that is popular in product development, prici
 
 
 ## Problem statement
-In today's dynamic and competitive business landscape, understanding customer preferences is essential for staying ahead of the curve. However, the  intricacy of consumer decision-making, shaped by a multitude of circumstances, makes it challenging to identify drivers behind their choice for product and services. My client, a pizza marketing and selling business finds themselves in that predicament.
+In today's dynamic and competitive business landscape, understanding customer preferences is essential for staying ahead of the curve. However, the  intricacy of consumer decision-making, shaped by a multitude of circumstances, makes it challenging to identify drivers behind their choice for product and services. My organization's mobile phone marketing and selling business finds itself in that predicament.
 
-The problem at hand is the need for a systematic and data-driven approach to unravel these intricate preferences. My client has established that Conventional methods fall short in providing a comprehensive understanding of customer choices and fail to capture the nuanced trade-offs that consumers make in real-world scenarios. Consequently, there exists a gap in the ability to design products and services that not only meet but exceed customer expectations.
+The problem at hand is the need for a systematic and data-driven approach to unravel these intricate preferences. We have established that conventional methods fall short in providing a comprehensive understanding of customer choices and fail to capture the nuanced trade-offs that consumers make in real-world scenarios. Consequently, there exists a gap in the ability to design products and services that not only meet but exceed customer expectations.
 
 In addressing this challenge, we proposed to approach it through the lens of conjoint analysis which expectedly would fill identified gap by offering a structured methodology to decipher customer preferences, enabling businesses to make informed decisions that resonate with their target audience. 
 

@@ -1,4 +1,4 @@
-# Conjoint Study
+# [Conjoint Study].(https://github.com/MosesMwalya/conjoint/blob/main/README.md).
 
 ![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
 

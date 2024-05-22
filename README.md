@@ -6,6 +6,10 @@ Deciding between two or more options is often difficult because we like some fea
 
 So begs the question, what does data-driven organizations do to decipher the ideal mix of features that most customer would prefer or would choose? Certainly, such organizations can’t afford to make educated guesses - Well, among the tools that are preferred is the Conjoint study.
 
+
+To see detailed Python code, [here is the link](https://github.com/MosesMwalya/conjoint/blob/main/phones_conjoint.ipynb)
+ 
+
 ## Overview
 The conjoint study is a statistical technique that helps to determine how people value, prefer, and choose different attributes (e.g. feature, benefits etc) that make up an individual product or service. By simulating real-world decision-making scenarios, conjoint analysis enables businesses to dissect the elements that influence customers' choices and prioritize features that contribute most to overall satisfaction.
 
